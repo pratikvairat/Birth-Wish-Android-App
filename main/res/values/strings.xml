@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday Wish</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="wish_me">Wish Me</string>
+    <string name="wish">Happy Birth Day Dear</string>
+    <string name="name">Your Name</string>
+</resources>
